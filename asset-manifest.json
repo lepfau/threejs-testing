@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/threejs-testing/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/threejs-testing/static/js/main.1d7eb71f.chunk.js",
+    "main.js.map": "/threejs-testing/static/js/main.1d7eb71f.chunk.js.map",
+    "runtime-main.js": "/threejs-testing/static/js/runtime-main.7e03b5f0.js",
+    "runtime-main.js.map": "/threejs-testing/static/js/runtime-main.7e03b5f0.js.map",
+    "static/js/2.91859e0c.chunk.js": "/threejs-testing/static/js/2.91859e0c.chunk.js",
+    "static/js/2.91859e0c.chunk.js.map": "/threejs-testing/static/js/2.91859e0c.chunk.js.map",
+    "static/js/3.60ab36c3.chunk.js": "/threejs-testing/static/js/3.60ab36c3.chunk.js",
+    "static/js/3.60ab36c3.chunk.js.map": "/threejs-testing/static/js/3.60ab36c3.chunk.js.map",
+    "index.html": "/threejs-testing/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/threejs-testing/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.91859e0c.chunk.js.LICENSE.txt": "/threejs-testing/static/js/2.91859e0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e03b5f0.js",
+    "static/js/2.91859e0c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1d7eb71f.chunk.js"
+  ]
+}
